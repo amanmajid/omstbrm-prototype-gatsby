@@ -1,9 +1,9 @@
 {
   "title": "OMSTBRM",
   "siteUrl": "https://delog-w3layouts.netlify.com/",
-  "description": "Delog, a GatsbyJS and Netlify CMS starter for Designers and Developers",
+  "description": "",
   "home": {
     "title": "Oxford Martin Programme on Transboundary Resources Management",
-    "description": "Designed to promote practical cross-border cooperation on natural resources in the Middle East and North Africa."
+    "description": "Data is the foundation of robust decision-making. As part of our transboundary work in Israel, Palestine and Jordan, we are collating data sets, building data platforms, and developing a suite of decision-models. Explore the platforms below."
   }
 }
